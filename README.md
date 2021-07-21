@@ -2,7 +2,7 @@
 
 Passo 1 :
 
--Para clonar o projeto utilize o comando:
+#Para clonar o projeto utilize o comando:
    git clone https://github.com/Pedro050700/desafio-calindra/edit/main/README.md
 
 Passo 2 :
