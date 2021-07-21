@@ -1,38 +1,33 @@
 .App {
   text-align: center;
+  width: 100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.container {
+  width: 100%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.button {
+  margin-left: 10px;
+}
+.produtosList {
+  margin-top: 5rem;
+  text-align: left;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.ProdutoCard {
+  width: 20rem;
+  margin-top: 1rem;
+  margin-left: 1rem;
 }
 
-.App-link {
-  color: #61dafb;
+.sugestoes {
+  margin-top: 5rem;
+  text-align: left;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.SugestaoCard {
+  width: 20rem;
+  margin-top: 1rem;
+  margin-left: 1rem;
 }
