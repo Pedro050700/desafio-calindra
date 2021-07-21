@@ -6,16 +6,19 @@ Passo 1 :
    git clone https://github.com/Pedro050700/desafio-calindra/edit/main/README.md
 
 Passo 2 :
-#para atualizar dependências do projeto.
-   
-   npm install 
+  
+  #Para atualizar dependências do projeto utilize o comando :
+     npm install 
+
 Passo 3 :
-#acessaro diretório do projeto.
-cd Clothes 
+
+   #Acessar o diretório do projeto.
+      cd Clothes 
 
 Passo 4 :
+
 #Para iniciar o projeto
-npm run start 
+     npm run start 
 
 
 Thank you !!
