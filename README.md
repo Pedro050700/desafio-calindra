@@ -12,12 +12,12 @@ Passo 2 :
 
 Passo 3 :
 
-   #Acessar o diretório do projeto.
+   #Acessar o diretório do projeto:
       cd Clothes 
 
 Passo 4 :
 
-#Para iniciar o projeto
+#Para iniciar o projeto:
      npm run start 
 
 
